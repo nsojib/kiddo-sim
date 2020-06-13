@@ -3,6 +3,13 @@
 This code works with the vrep model 'kiddobot_dynamixel_real_v2.ttt' <br>
 <img src='kiddobot_ws.png' width=40%>
 
+
+### How to start
+* Clone this repository.
+* Install <a href="https://www.coppeliarobotics.com/downloads" target="_blank">VREP</a> EDU version. <br>
+* run the "auto_kiddobot.ipynb" file.
+
+
 ### autokiddobot api <br>
 Variables: <br>
     * x,y  : last pen coordinate. set by the get_current_xy() function.  <br>

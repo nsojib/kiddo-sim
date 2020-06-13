@@ -1,4 +1,4 @@
-<a href="https://nsojib.github.io/kiddobot.html"> <h3> kiddo: an educational robot for children.</h3></a> <br>
+### kiddo: an educational robot for children.  <br>
 
 This code works with the vrep model 'kiddobot_dynamixel_real_v2.ttt' <br>
 <img src='kiddobot_ws.png' width=40%>

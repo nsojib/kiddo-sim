@@ -7,6 +7,7 @@ This code works with the vrep model 'kiddobot_dynamixel_real_v2.ttt' <br>
 ### How to start
 * Clone this repository.
 * Install <a href="https://www.coppeliarobotics.com/downloads" target="_blank">VREP</a> EDU version. <br>
+* load the robot model into vrep. (file: vre/kiddobot_dynamixel_real_v2.ttt)
 * run the "auto_kiddobot.ipynb" file.
 
 

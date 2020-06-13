@@ -1,4 +1,4 @@
-### kiddo: an educational robot for children.  <br>
+### kiddo: A robot for child education..  <br>
 
 This code works with the vrep model 'kiddobot_dynamixel_real_v2.ttt' <br>
 <img src='kiddobot_ws.png' width=40%>

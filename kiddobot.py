@@ -28,7 +28,7 @@ class Kiddobot():
         return theta, theta2
     def pen_down(self):
         print('pen down to do')
-        e=self.sim.set_joint_pos(self.h3, -4.600e-02)
+        e=self.sim.set_joint_pos(self.h3, -4.50e-02)
         return e
     def pen_up(self):
         print('pen up to do')
